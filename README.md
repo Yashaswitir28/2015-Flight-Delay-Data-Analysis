@@ -5,7 +5,8 @@ I recently dove into a fascinating dataset of over 5 million commercial airline 
 # Recommended Analysis
 **Question 1: How does the overall flight volume vary by month? By day of week?**
 
-Answer: The dashboard includes a "Total Flights by DAY OF WEEK" bar chart, showing flight volume variation by day of the week. While not fully visible in all images, the second image shows part of a "Total Flights by Month name" bar chart, which would illustrate monthly variation. The total number of flights is stated as 6M (6 million).
+Answer: The dashboard includes a "Total Flights by DAY OF WEEK" bar chart, showing flight volume variation by day of the week. The second image shows part of a "Total Flights by Month name" bar chart, which would illustrate monthly variation. The total number of flights is stated as 6M (6 million).
+
 ---> Chart for Flight by Month
 ![image](https://github.com/user-attachments/assets/3ec0092e-5018-45c1-864d-cea443047c59)
 ---->Chart for Flight by Days of Week
