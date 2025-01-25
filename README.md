@@ -17,22 +17,24 @@ Answer: The dashboard includes a "Total Flights by DAY OF WEEK" bar chart, showi
 
 **Question 2: What percentage of flights experienced a departure delay in 2015? Among those flights, what was the average delay time, in minutes?**
 
-Answer: 35.08% of flights experienced a departure delay. The average airline delay is 18.97 minutes (shown in the first and third images). However, the average delay for all delayed flights is not explicitly provided. The third image breaks down average delays by cause (weather, late aircraft, etc.), which could be used to calculate a weighted average if the number of delays for each cause was available.
+Answer: 35.08% of flights experienced a departure delay. The average airline delay is 32.67 minutes. 
+
 ![image](https://github.com/user-attachments/assets/135c1099-644d-4f8a-849d-0b4e9287b7c1)
 
 ![image](https://github.com/user-attachments/assets/40dce572-0818-4257-8685-5e12415fe0e9)
 
 **Question 3: How does the % of delayed flights vary throughout the year? What about for flights leaving from Boston (BOS) specifically?**
 
-Answer: The "BOS Delay flight Comparison" line chart directly addresses this. It compares "Overall Delayed Flights % by Month" with "Shortest Flight % by Month and State", showing how the percentage of delayed flights changes throughout the year for both overall flights and those originating from Boston.
+Answer: Both charts have been displayed below.
 
 ![image](https://github.com/user-attachments/assets/5c35f3f1-a5f1-4e82-81e3-692931a0e13f)
+
 
 ![image](https://github.com/user-attachments/assets/6d342d29-9f9a-487c-b8f9-a2024547a8d2)
 
 **Question 4: How many flights were cancelled in 2015? What % of cancellations were due to weather? What % were due to the Airline/Carrier?**  
 
-Answer: The second image indicates that 1.54% of flights were cancelled. A "Total Flights by Cancellation Reason Description" pie chart shows the proportion of cancellations attributed to various reasons, including weather and the airline/carrier. However, the exact number of cancellations due to each reason is not explicitly stated.
+Answer: About 90 thousand flights were canceled in 2015. 0.84% cancellations were due to weather. 0.43% cancellations were due to Airline/Carrier.
 
 ![image](https://github.com/user-attachments/assets/e8f84d16-a1cf-4d69-9ba9-48ef01aa0acc)
 
