@@ -34,7 +34,7 @@ Answer: Both charts have been displayed below.
 
 **Question 4: How many flights were cancelled in 2015? What % of cancellations were due to weather? What % were due to the Airline/Carrier?**  
 
-Answer: About 90 thousand flights were canceled in 2015. 0.84% cancellations were due to weather. 0.43% cancellations were due to Airline/Carrier.
+Answer: About 90 thousand flights(1.54%) were canceled in 2015. 0.84% cancellations were due to weather. 0.43% cancellations were due to Airline/Carrier.
 
 ![image](https://github.com/user-attachments/assets/e8f84d16-a1cf-4d69-9ba9-48ef01aa0acc)
 
