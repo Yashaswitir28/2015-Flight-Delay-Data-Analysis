@@ -53,3 +53,11 @@ Answer: About 90 thousand flights(1.54%) were canceled in 2015. 0.84% cancellati
 Answer: we can see that Southwest Airlines Co. seems to be the most reliable in terms of on-time departure. Virgin America Lines seems to be the least reliable in terms of on-time departure.
 
 ![image](https://github.com/user-attachments/assets/5cf5542f-cac4-4bd2-b066-4e8312989f3b)
+
+# Dashboard
+![image](https://github.com/user-attachments/assets/30883271-873c-44ab-9a9a-f9593efb736f)
+
+![image](https://github.com/user-attachments/assets/f508564d-30a4-437f-8ec7-9994cc4c8176)
+
+![image](https://github.com/user-attachments/assets/f16ea2d7-5507-455f-b2a7-5e02006f2e28)
+
