@@ -8,8 +8,11 @@ I recently dove into a fascinating dataset of over 5 million commercial airline 
 Answer: The dashboard includes a "Total Flights by DAY OF WEEK" bar chart, showing flight volume variation by day of the week. The second image shows part of a "Total Flights by Month name" bar chart, which would illustrate monthly variation. The total number of flights is stated as 6M (6 million).
 
 ---> Chart for Flight by Month
+
 ![image](https://github.com/user-attachments/assets/3ec0092e-5018-45c1-864d-cea443047c59)
+
 ---->Chart for Flight by Days of Week
+
 ![image](https://github.com/user-attachments/assets/df4cb367-8783-47f7-b8d4-79c1eff4613e)
 
 **Question 2: What percentage of flights experienced a departure delay in 2015? Among those flights, what was the average delay time, in minutes?**
